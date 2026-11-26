@@ -129,7 +129,7 @@ Based in Auckland, New Zealand · Open to software engineering opportunities and
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="45" alt="AWS" title="AWS" />
+  <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS" title="Amazon Web Services" />
 </p>
 
 ![Python](https://img.shields.io/badge/Python-365D86?style=flat-square&logo=python&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-365D86?style=flat-square) ![Amazon EMR](https://img.shields.io/badge/Amazon_EMR-365D86?style=flat-square) ![Amazon S3](https://img.shields.io/badge/Amazon_S3-365D86?style=flat-square&logo=amazons3&logoColor=white) ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-365D86?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-365D86?style=flat-square) ![Data Mining](https://img.shields.io/badge/Data_Mining-365D86?style=flat-square) ![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-365D86?style=flat-square) ![Statistical Programming](https://img.shields.io/badge/Statistical_Programming-365D86?style=flat-square)
