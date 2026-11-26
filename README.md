@@ -9,40 +9,103 @@
 
 ---
 
-## About me
+## About Me
 
-I am a .NET Full-Stack Developer with over 10 years of professional experience designing, developing and supporting enterprise software across manufacturing, banking, insurance, and health and fitness in Singapore and Myanmar.
+I am a **.NET Full-Stack Software Developer with over 10 years of professional experience** delivering end-to-end enterprise software solutions across semiconductor manufacturing, banking and financial services, insurance, business process automation, and health and fitness in Singapore and Myanmar.
 
-I combine enterprise software engineering experience with postgraduate research in AI-assisted software engineering to build reliable, scalable and maintainable solutions. I am based in Auckland and open to software engineering opportunities in New Zealand.
+My experience spans the complete **Software Development Life Cycle (SDLC)** — from requirements gathering and analysis, solution design and architecture, frontend and backend development, database design and development, and API development to system integration, testing, deployment, release support, production maintenance and continuous improvement.
 
-| Professional experience | Academic achievement | Research focus |
+My core expertise includes C#, ASP.NET, .NET Core, Web APIs, SQL Server, JavaScript, Vue.js, Azure DevOps and CI/CD pipelines. My broader technical experience includes React, TypeScript and modern web technologies. I have worked on enterprise integrations, secure third-party payment services and business process automation, collaborating with international and cross-functional teams in Agile/Scrum environments.
+
+I completed my **Master of Computer and Information Sciences with First Class Honours** at Auckland University of Technology (AUT), New Zealand, and received the **Dean’s Award for Excellence in Postgraduate Study (2026)**. My postgraduate research focused on the **impact of AI in large-scale software development**. I currently work as a part-time Teaching Assistant at AUT, supporting learning activities and IT project management concepts.
+
+I am interested in combining enterprise software engineering, modern software architecture, cloud technologies and AI-assisted development to deliver scalable, secure, reliable and maintainable solutions.
+
+| Professional experience | Project portfolio | Academic achievement |
 | :---: | :---: | :---: |
-| **10+ years** | **First Class Honours** | **AI in Software Engineering** |
-| Enterprise development | Dean’s Award · 2026 | Large-scale software development |
+| **10+ years** | **15 professional + 2 internship projects** | **First Class Honours · Dean’s Award 2026** |
 
-## Technical expertise
+Based in Auckland, New Zealand · Open to software engineering opportunities and professional collaboration.
 
-**Backend & integration**
+[Projects](PROJECTS.md) · [Experience](EXPERIENCE.md) · [Research](RESEARCH.md)
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-334155?style=flat-square) ![LINQ](https://img.shields.io/badge/LINQ-334155?style=flat-square)
+---
 
-**Frontend**
+## Technical Expertise
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+### Backend Development
 
-**Data, cloud & delivery**
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square) ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square) ![ASP.NET MVC 5](https://img.shields.io/badge/ASP.NET_MVC_5-512BD4?style=flat-square) ![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat-square) ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square) ![Spring.NET](https://img.shields.io/badge/Spring.NET-512BD4?style=flat-square) ![NHibernate](https://img.shields.io/badge/NHibernate-512BD4?style=flat-square) ![Express.js](https://img.shields.io/badge/Express.js-512BD4?style=flat-square&logo=express&logoColor=white)
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-334155?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+### Frontend Development
 
-**AI-assisted engineering**
+![JavaScript](https://img.shields.io/badge/JavaScript-176B87?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-176B87?style=flat-square&logo=typescript&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-176B87?style=flat-square&logo=vuedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-176B87?style=flat-square&logo=react&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-176B87?style=flat-square&logo=angular&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-176B87?style=flat-square&logo=nextdotjs&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-176B87?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-176B87?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-176B87?style=flat-square&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-176B87?style=flat-square&logo=jquery&logoColor=white) ![AJAX](https://img.shields.io/badge/AJAX-176B87?style=flat-square)
 
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-24292F?style=flat-square&logo=githubcopilot) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### Database Technologies
 
-**Additional technologies:** Angular (Staff Portal), Next.js, Express, Entity Framework, Spring.NET, NHibernate, XML/XSLT, Web Services, JWT, Crystal Reports, Microsoft Report Viewer, IIS, SVN, TFS, Swagger, SSMS, HTML, CSS, jQuery, AJAX and JSON.
+![SQL](https://img.shields.io/badge/SQL-A4262C?style=flat-square) ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-A4262C?style=flat-square) ![SQLite](https://img.shields.io/badge/SQLite-A4262C?style=flat-square&logo=sqlite&logoColor=white) ![Stored Procedures](https://img.shields.io/badge/Stored_Procedures-A4262C?style=flat-square) ![Database Design](https://img.shields.io/badge/Database_Design-A4262C?style=flat-square)
 
-**Academic cloud experience:** Amazon EMR and Amazon S3.
+### APIs, System Integration & Security
 
-## Featured enterprise projects
+![REST APIs](https://img.shields.io/badge/REST_APIs-0F766E?style=flat-square) ![Web APIs](https://img.shields.io/badge/Web_APIs-0F766E?style=flat-square) ![Web Services](https://img.shields.io/badge/Web_Services-0F766E?style=flat-square) ![XML](https://img.shields.io/badge/XML-0F766E?style=flat-square) ![XSLT](https://img.shields.io/badge/XSLT-0F766E?style=flat-square) ![JSON](https://img.shields.io/badge/JSON-0F766E?style=flat-square&logo=json&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-0F766E?style=flat-square) ![Third-Party Integration](https://img.shields.io/badge/Third--Party_Integration-0F766E?style=flat-square) ![Payment Integration](https://img.shields.io/badge/Payment_Integration-0F766E?style=flat-square) ![Biometric Authentication](https://img.shields.io/badge/Biometric_Authentication-0F766E?style=flat-square)
+
+### Cloud, DevOps & Deployment
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0369A1?style=flat-square) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0369A1?style=flat-square) ![CI/CD Pipelines](https://img.shields.io/badge/CI%2FCD_Pipelines-0369A1?style=flat-square) ![IIS Web Server](https://img.shields.io/badge/IIS_Web_Server-0369A1?style=flat-square)
+
+### Source Control
+
+![Git](https://img.shields.io/badge/Git-475569?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-475569?style=flat-square&logo=github&logoColor=white) ![SVN](https://img.shields.io/badge/SVN-475569?style=flat-square&logo=subversion&logoColor=white) ![TFS](https://img.shields.io/badge/TFS-475569?style=flat-square) ![Visual SourceSafe](https://img.shields.io/badge/Visual_SourceSafe-475569?style=flat-square)
+
+### Search, Analytics, Reporting & Business Process Automation
+
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-80551B?style=flat-square&logo=elasticsearch&logoColor=white) ![Kibana](https://img.shields.io/badge/Kibana-80551B?style=flat-square&logo=kibana&logoColor=white) ![Crystal Reports](https://img.shields.io/badge/Crystal_Reports-80551B?style=flat-square) ![Microsoft Report Viewer](https://img.shields.io/badge/Microsoft_Report_Viewer-80551B?style=flat-square) ![Batch Processing](https://img.shields.io/badge/Batch_Processing-80551B?style=flat-square) ![PDF Processing](https://img.shields.io/badge/PDF_Processing-80551B?style=flat-square) ![Email Automation](https://img.shields.io/badge/Email_Automation-80551B?style=flat-square)
+
+### Development Tools
+
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-475569?style=flat-square) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-475569?style=flat-square) ![SQL Server Management Studio](https://img.shields.io/badge/SQL_Server_Management_Studio-475569?style=flat-square) ![Swagger](https://img.shields.io/badge/Swagger-475569?style=flat-square&logo=swagger&logoColor=white)
+
+### AI-Assisted Software Engineering
+
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-6D28D9?style=flat-square&logo=githubcopilot&logoColor=white) ![Generative AI](https://img.shields.io/badge/Generative_AI-6D28D9?style=flat-square) ![AI-Assisted Development](https://img.shields.io/badge/AI--Assisted_Development-6D28D9?style=flat-square)
+
+### Academic Cloud, AI & Data Analytics
+
+![Python](https://img.shields.io/badge/Python-365D86?style=flat-square&logo=python&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-365D86?style=flat-square) ![Amazon EMR](https://img.shields.io/badge/Amazon_EMR-365D86?style=flat-square) ![Amazon S3](https://img.shields.io/badge/Amazon_S3-365D86?style=flat-square&logo=amazons3&logoColor=white) ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-365D86?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-365D86?style=flat-square) ![Data Mining](https://img.shields.io/badge/Data_Mining-365D86?style=flat-square) ![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-365D86?style=flat-square) ![Statistical Programming](https://img.shields.io/badge/Statistical_Programming-365D86?style=flat-square)
+
+*Technology experience varies by project; AWS, machine learning and data analytics are included as academic experience.*
+
+---
+
+## End-to-End SDLC Experience
+
+| Phase | Experience |
+| :--- | :--- |
+| 01 · Requirements & Analysis | Business and technical requirements, business rules, workflow analysis and stakeholder communication |
+| 02 · Solution Design & Architecture | Application, database, UI and integration design; scalability, maintainability and supportability |
+| 03 · Full-Stack Development | Frontend, backend, business logic, database development and Web APIs |
+| 04 · System Integration | REST APIs, Web Services, third-party services, payment integration, biometric authentication and data exchange |
+| 05 · Testing & Quality Assurance | Code reviews, debugging, SIT, UAT, defect resolution and quality improvement |
+| 06 · Deployment & Release | Azure DevOps, CI/CD, implementation, deployment, release support and production go-live |
+| 07 · Production Support & Maintenance | Troubleshooting, root cause analysis, performance optimisation, issue resolution and maintenance |
+| 08 · Continuous Improvement | Application enhancements, refactoring, documentation, knowledge sharing and AI-assisted development |
+
+## Professional Software Engineering Skills
+
+| Competency | Experience |
+| :--- | :--- |
+| Methodologies | Agile, Scrum, sprint planning, daily stand-ups, retrospectives and iterative delivery |
+| Requirements & stakeholder communication | Collaborating with users, Product Owners, QA teams, developers and business stakeholders |
+| Business process & delivery support | Analysing workflows and business rules; supporting SIT, UAT and production go-live |
+| Problem solving & application support | Analysing application, integration, database and performance issues; identifying root causes |
+| Solution design & architecture | Contributing to scalable, maintainable and supportable application and integration design |
+| Code quality & mentoring | Code reviews, technical discussions, testing, guidance for junior developers and students |
+| Security awareness | JWT authentication, secure third-party integrations, sensitive financial/customer data and secure coding awareness |
+| AI-assisted development | Code generation, debugging, refactoring, documentation and technical problem-solving with manual review and validation |
+
+---
+
+## Featured Enterprise Projects
 
 Selected professional contributions. These are not public source-code repositories.
 
@@ -57,7 +120,7 @@ Selected professional contributions. These are not public source-code repositori
 
 [**Explore all 17 projects (15 professional + 2 internship) →**](PROJECTS.md)
 
-## Professional & academic journey
+## Professional & Academic Journey
 
 | Organisation | Role | Period |
 | --- | --- | --- |
@@ -67,12 +130,12 @@ Selected professional contributions. These are not public source-code repositori
 | Toppan Forms, Singapore | Software Engineer | Dec 2019 – Nov 2020 |
 | Etiqa Insurance, Singapore | Web Developer | Oct 2018 – Dec 2019 |
 | True Yoga & True Fitness, Singapore | Developer | Oct 2017 – Oct 2018 |
-| ACE Data Systems, Myanmar | Senior Software Engineer / Software Engineer | Mar 2014 – Jun 2017 |
+| ACE Data Systems, Myanmar | Senior Software Engineer / Software Engineer / Software Developer | Mar 2014 – Jun 2017 |
 | ACE Data Systems — ACE Software Training, Myanmar | Software Development Intern (Programmer, OJT) | May 2013 – Feb 2014 |
 
 [View detailed professional experience →](EXPERIENCE.md)
 
-## Internship projects
+## Internship Projects
 
 **ACE Data Systems — ACE Software Training | Software Development Intern (Programmer, OJT)**  
 May 2013 – February 2014 · Myanmar
@@ -84,25 +147,16 @@ May 2013 – February 2014 · Myanmar
 
 [View internship project details →](PROJECTS.md#internship-projects)
 
-## Engineering practices
-
-- Enterprise application and integration design
-- RESTful API development and secure third-party integration
-- Database design, troubleshooting and performance tuning
-- Agile/Scrum, code reviews and cross-functional collaboration
-- CI/CD, release management, SIT/UAT and production support
-- AI-assisted coding, refactoring and documentation with human review and validation
-
-## Education & recognition
+## Education & Academic Achievements
 
 **Master of Computer and Information Sciences — First Class Honours**  
 Auckland University of Technology, New Zealand · March 2025 – July 2026  
 🏆 Dean’s Award for Excellence in Postgraduate Study (2026)
 
 **Bachelor of Information Technology (BE.IT)**  
-Technological University, Myanmar · 2008–2012
+Technological University, Myanmar · October 2008 – December 2012
 
-## Research & AI interests
+## Research & AI Interests
 
 **Impact of AI Tools Across Software Engineering Phases in Large-Scale Software Development**
 

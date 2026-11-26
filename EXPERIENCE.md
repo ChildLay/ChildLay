@@ -41,7 +41,7 @@ Requirements gathering, application development and maintenance, database design
 ## ACE Data Systems | Senior Software Engineer / Software Engineer
 March 2014 – June 2017 · Myanmar
 
-Progressed from Software Developer to Software Engineer and Senior Software Engineer. Responsibilities included requirements gathering, application design and development, database classes, stored procedures, testing, troubleshooting, documentation, customer communication and team leadership.
+Career progression: Software Developer (March 2014 – May 2015), Software Engineer (May 2015 – August 2016), and Senior Software Engineer (August 2016 – June 2017). Responsibilities included requirements gathering, application design and development, database classes, stored procedures, testing, troubleshooting, documentation, customer communication and team leadership.
 
 ## ACE Data Systems — ACE Software Training | Software Development Intern (Programmer, OJT)
 May 2013 – February 2014 · Myanmar
