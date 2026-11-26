@@ -43,6 +43,10 @@ Based in Auckland, New Zealand · Open to software engineering opportunities and
 
 ## Technical Expertise
 
+[![Open interactive Technical Expertise](https://img.shields.io/badge/Explore_Interactive_Technical_Expertise-365B7D?style=for-the-badge)](https://childlay.github.io/ChildLay/)
+
+*Interactive search and filters are available on the GitHub Pages version once published.*
+
 <p align="center"><img src="assets/technical-cover.svg" width="100%" alt="Technical Expertise — Technology and Engineering" /></p>
 
 <table width="100%">
