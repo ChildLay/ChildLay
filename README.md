@@ -1,13 +1,23 @@
+<a name="top"></a>
+
 <p align="center"><img src="assets/header.svg" alt="Khin Khin Maw — Senior .NET Developer and Full-Stack Software Engineer" width="100%"></p>
 <h3 align="center">Senior .NET Developer · Full-Stack Software Engineer</h3>
 <p align="center">Enterprise Software Engineering | AI-Assisted Development | Cloud & DevOps</p>
 <p align="center">Auckland, New Zealand</p>
 <p align="center">
-<a href="https://www.linkedin.com/in/khinkhinmaw"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge"></a>
+<a href="https://www.linkedin.com/in/khinkhinmaw/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge"></a>
 <a href="mailto:childchild23@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-475569?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
+
+<p align="center"><img src="assets/highlights.svg" width="100%" alt="10+ years professional experience; 15 professional and 2 internship projects; First Class Honours and Dean’s Award 2026"></p>
+
+<p align="center">
+<a href="PROJECTS.md"><img alt="Projects" src="https://img.shields.io/badge/Projects-176B87?style=for-the-badge"></a>
+<a href="EXPERIENCE.md"><img alt="Experience" src="https://img.shields.io/badge/Experience-245B87?style=for-the-badge"></a>
+<a href="RESEARCH.md"><img alt="Research" src="https://img.shields.io/badge/Research-6454A4?style=for-the-badge"></a>
+</p>
 
 ## About Me
 
@@ -21,13 +31,9 @@ I completed my **Master of Computer and Information Sciences with First Class Ho
 
 I am interested in combining enterprise software engineering, modern software architecture, cloud technologies and AI-assisted development to deliver scalable, secure, reliable and maintainable solutions.
 
-| Professional experience | Project portfolio | Academic achievement |
-| :---: | :---: | :---: |
-| **10+ years** | **15 professional + 2 internship projects** | **First Class Honours · Dean’s Award 2026** |
+
 
 Based in Auckland, New Zealand · Open to software engineering opportunities and professional collaboration.
-
-[Projects](PROJECTS.md) · [Experience](EXPERIENCE.md) · [Research](RESEARCH.md)
 
 ---
 
@@ -140,29 +146,73 @@ Based in Auckland, New Zealand · Open to software engineering opportunities and
 
 ## End-to-End SDLC Experience
 
-| Phase | Experience |
-| :--- | :--- |
-| 01 · Requirements & Analysis | Business and technical requirements, business rules, workflow analysis and stakeholder communication |
-| 02 · Solution Design & Architecture | Application, database, UI and integration design; scalability, maintainability and supportability |
-| 03 · Full-Stack Development | Frontend, backend, business logic, database development and Web APIs |
-| 04 · System Integration | REST APIs, Web Services, third-party services, payment integration, biometric authentication and data exchange |
-| 05 · Testing & Quality Assurance | Code reviews, debugging, SIT, UAT, defect resolution and quality improvement |
-| 06 · Deployment & Release | Azure DevOps, CI/CD, implementation, deployment, release support and production go-live |
-| 07 · Production Support & Maintenance | Troubleshooting, root cause analysis, performance optimisation, issue resolution and maintenance |
-| 08 · Continuous Improvement | Application enhancements, refactoring, documentation, knowledge sharing and AI-assisted development |
+<p align="center"><img src="assets/sdlc.svg" width="100%" alt="SDLC: requirements, design, full-stack development, integration, testing, deployment, support and continuous improvement"></p>
+
+### 01 / Requirements & Analysis
+
+Business and technical requirements, business rules, workflow analysis and stakeholder communication.
+
+### 02 / Solution Design & Architecture
+
+Application, database, UI and integration design; scalability, maintainability and supportability.
+
+### 03 / Full-Stack Development
+
+Frontend, backend, business logic, database development and Web APIs.
+
+### 04 / System Integration
+
+REST APIs, Web Services, third-party services, payment integration, biometric authentication and data exchange.
+
+### 05 / Testing & Quality Assurance
+
+Code reviews, debugging, SIT, UAT, defect resolution and quality improvement.
+
+### 06 / Deployment & Release
+
+Azure DevOps, CI/CD, implementation, deployment, release support and production go-live.
+
+### 07 / Production Support & Maintenance
+
+Troubleshooting, root cause analysis, performance optimisation, issue resolution and maintenance.
+
+### 08 / Continuous Improvement
+
+Application enhancements, refactoring, documentation, knowledge sharing and AI-assisted development.
 
 ## Professional Software Engineering Skills
 
-| Competency | Experience |
-| :--- | :--- |
-| Methodologies | Agile, Scrum, sprint planning, daily stand-ups, retrospectives and iterative delivery |
-| Requirements & stakeholder communication | Collaborating with users, Product Owners, QA teams, developers and business stakeholders |
-| Business process & delivery support | Analysing workflows and business rules; supporting SIT, UAT and production go-live |
-| Problem solving & application support | Analysing application, integration, database and performance issues; identifying root causes |
-| Solution design & architecture | Contributing to scalable, maintainable and supportable application and integration design |
-| Code quality & mentoring | Code reviews, technical discussions, testing, guidance for junior developers and students |
-| Security awareness | JWT authentication, secure third-party integrations, sensitive financial/customer data and secure coding awareness |
-| AI-assisted development | Code generation, debugging, refactoring, documentation and technical problem-solving with manual review and validation |
+**Methodologies**
+
+> Agile, Scrum, sprint planning, daily stand-ups, retrospectives and iterative delivery.
+
+**Requirements & stakeholder communication**
+
+> Collaborating with users, Product Owners, QA teams, developers and business stakeholders.
+
+**Business process & delivery support**
+
+> Analysing workflows and business rules; supporting SIT, UAT and production go-live.
+
+**Problem solving & application support**
+
+> Analysing application, integration, database and performance issues; identifying root causes.
+
+**Solution design & architecture**
+
+> Contributing to scalable, maintainable and supportable application and integration design.
+
+**Code quality & mentoring**
+
+> Code reviews, technical discussions, testing, guidance for junior developers and students.
+
+**Security awareness**
+
+> JWT authentication, secure third-party integrations, sensitive financial/customer data and secure coding awareness.
+
+**AI-assisted development**
+
+> Code generation, debugging, refactoring, documentation and technical problem-solving with manual review and validation.
 
 ---
 
@@ -170,43 +220,106 @@ Based in Auckland, New Zealand · Open to software engineering opportunities and
 
 Selected professional contributions. These are not public source-code repositories.
 
-| Project | Description | Technologies |
-| --- | --- | --- |
-| **Fixed Asset Management System** | Enterprise system for asset tracking and approval workflows. | .NET Core, HTML, CSS, Bootstrap, JavaScript, jQuery, AJAX, JSON, Web APIs, SQL, Azure DevOps, CI/CD pipelines |
-| **ProMIO Application** | Large-scale manufacturing system supporting complex workflows. | C#, .NET Core, Web APIs, LINQ, SQL, JavaScript, Vue.js, HTML, CSS, Bootstrap, jQuery, AJAX, JSON, SQL Server, Azure DevOps, CI/CD pipelines |
-| **Staff Portal** | Internal HR system supporting staff operations and employee management. | C# .NET, MVC 5, Angular, Bootstrap, JavaScript, jQuery, AJAX, JSON, Web APIs, SQL |
-| **Customer Booking Schedule System** | Developed a customer booking web application enabling fitness club members to make and manage club bookings. | C#, .NET, JavaScript, HTML, CSS, jQuery, AJAX, JSON, SQL Server, IIS Web Server |
-| **Merchant Portal** | Developed a web application for the bank’s card department to view and manage customer card transaction information and generate transaction reports. | C#, .NET MVC 5, LINQ, HTML, CSS, JavaScript, jQuery, Bootstrap, SQL Server, Crystal Reports 2015, IIS Web Server |
-| **Microfinance Systems** | End-to-end microfinance solution supporting customer information management, loan management, area surveys, biometric authentication, and secure third-party payment integration between the 1-Stop payment platform and the ACE core microfinance system. | C#, .NET, LINQ, XML, XSLT, Web Services, IIS Web Server, SQL Server, SQLite, biometric integration, Microsoft Report Viewer |
+### Fixed Asset Management System
 
-[**Explore all 17 projects (15 professional + 2 internship) →**](PROJECTS.md)
+Enterprise system for asset tracking and approval workflows.
+
+**Technology stack** · .NET Core, HTML, CSS, Bootstrap, JavaScript, jQuery, AJAX, JSON, Web APIs, SQL, Azure DevOps, CI/CD pipelines
+
+### ProMIO Application
+
+Large-scale manufacturing system supporting complex workflows.
+
+**Technology stack** · C#, .NET Core, Web APIs, LINQ, SQL, JavaScript, Vue.js, HTML, CSS, Bootstrap, jQuery, AJAX, JSON, SQL Server, Azure DevOps, CI/CD pipelines
+
+### Staff Portal
+
+Internal HR system supporting staff operations and employee management.
+
+**Technology stack** · C# .NET, MVC 5, Angular, Bootstrap, JavaScript, jQuery, AJAX, JSON, Web APIs, SQL
+
+### Customer Booking Schedule System
+
+Developed a customer booking web application enabling fitness club members to make and manage club bookings.
+
+**Technology stack** · C#, .NET, JavaScript, HTML, CSS, jQuery, AJAX, JSON, SQL Server, IIS Web Server
+
+### Merchant Portal
+
+Developed a web application for the bank’s card department to view and manage customer card transaction information and generate transaction reports.
+
+**Technology stack** · C#, .NET MVC 5, LINQ, HTML, CSS, JavaScript, jQuery, Bootstrap, SQL Server, Crystal Reports 2015, IIS Web Server
+
+### Microfinance Systems
+
+End-to-end microfinance solution supporting customer information management, loan management, area surveys, biometric authentication, and secure third-party payment integration between the 1-Stop payment platform and the ACE core microfinance system.
+
+**Technology stack** · C#, .NET, LINQ, XML, XSLT, Web Services, IIS Web Server, SQL Server, SQLite, biometric integration, Microsoft Report Viewer
+
+[![Explore all 17 projects](https://img.shields.io/badge/Explore_all_17_projects-245B87?style=for-the-badge)](PROJECTS.md)
 
 ## Professional & Academic Journey
 
-| Organisation | Role | Period |
-| --- | --- | --- |
-| Auckland University of Technology, New Zealand | Teaching Assistant (part-time) | Mar 2026 – Present |
-| Auckland University of Technology, New Zealand | Master of Computer and Information Sciences (Full-time postgraduate study) | Mar 2025 – Jul 2026 |
-| RF360 – Qualcomm, Singapore | Web Developer | Dec 2020 – Feb 2025 |
-| Toppan Forms, Singapore | Software Engineer | Dec 2019 – Nov 2020 |
-| Etiqa Insurance, Singapore | Web Developer | Oct 2018 – Dec 2019 |
-| True Yoga & True Fitness, Singapore | Developer | Oct 2017 – Oct 2018 |
-| ACE Data Systems, Myanmar | Senior Software Engineer / Software Engineer / Software Developer | Mar 2014 – Jun 2017 |
-| ACE Data Systems — ACE Software Training, Myanmar | Software Development Intern (Programmer, OJT) | May 2013 – Feb 2014 |
+### Teaching Assistant (part-time)
 
-[View detailed professional experience →](EXPERIENCE.md)
+**Auckland University of Technology, New Zealand** · Mar 2026 – Present
+
+### Master of Computer and Information Sciences (Full-time postgraduate study)
+
+**Auckland University of Technology, New Zealand** · Mar 2025 – Jul 2026
+
+### Web Developer
+
+**RF360 – Qualcomm, Singapore** · Dec 2020 – Feb 2025
+
+### Software Engineer
+
+**Toppan Forms, Singapore** · Dec 2019 – Nov 2020
+
+### Web Developer
+
+**Etiqa Insurance, Singapore** · Oct 2018 – Dec 2019
+
+### Developer
+
+**True Yoga & True Fitness, Singapore** · Oct 2017 – Oct 2018
+
+### Senior Software Engineer
+
+**ACE Data Systems, Myanmar** · Aug 2016 – Jun 2017
+
+### Software Engineer
+
+**ACE Data Systems, Myanmar** · May 2015 – Aug 2016
+
+### Software Developer
+
+**ACE Data Systems, Myanmar** · Mar 2014 – May 2015
+
+### Software Development Intern (Programmer, OJT)
+
+**ACE Data Systems — ACE Software Training, Myanmar** · May 2013 – Feb 2014
+
+[![View detailed professional experience](https://img.shields.io/badge/View_detailed_professional_experience-245B87?style=for-the-badge)](EXPERIENCE.md)
 
 ## Internship Projects
 
 **ACE Data Systems — ACE Software Training | Software Development Intern (Programmer, OJT)**  
 May 2013 – February 2014 · Myanmar
 
-| Project | Description | Technologies |
-| --- | --- | --- |
-| **Inventory Control System** | Customer and supplier management, purchase orders and sales orders. | C#, ASP.NET, LINQ, JavaScript, jQuery, SQL Server |
-| **Online Home Budget Management System** | Recording income and expense transactions. | C#, ASP.NET, LINQ, JavaScript, jQuery, SQL Server |
+### Inventory Control System
 
-[View internship project details →](PROJECTS.md#internship-projects)
+Customer and supplier management, purchase orders and sales orders.
+
+**Technology stack** · C#, ASP.NET, LINQ, JavaScript, jQuery, SQL Server
+
+### Online Home Budget Management System
+
+Recording income and expense transactions.
+
+**Technology stack** · C#, ASP.NET, LINQ, JavaScript, jQuery, SQL Server
+
+[![View internship project details](https://img.shields.io/badge/View_internship_project_details-245B87?style=for-the-badge)](PROJECTS.md#internship-projects)
 
 ## Education & Academic Achievements
 
@@ -223,9 +336,14 @@ Technological University, Myanmar · October 2008 – December 2012
 
 Postgraduate research conducted using a Multivocal Literature Review (MLR) protocol, exploring AI tools in large-scale software engineering.
 
-[Read more about my research →](RESEARCH.md)
+[![Read more about my research](https://img.shields.io/badge/Read_more_about_my_research-245B87?style=for-the-badge)](RESEARCH.md)
 
 ---
 
 <p align="center"><strong>Building reliable software. Connecting enterprise experience with AI-enabled innovation.</strong></p>
-<p align="center"><a href="https://www.linkedin.com/in/khinkhinmaw/">LinkedIn</a> · <a href="mailto:childchild23@gmail.com">Email</a></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/khinkhinmaw/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"></a>
+<a href="mailto:childchild23@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-475569?style=for-the-badge"></a>
+<a href="#top"><img alt="Back to top" src="https://img.shields.io/badge/Back_to_top-245B87?style=for-the-badge"></a>
+</p>
+
