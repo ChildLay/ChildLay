@@ -33,7 +33,7 @@ October 2018 – December 2019 · Singapore
 
 Requirements gathering, application development and maintenance, database classes, stored procedures, testing and troubleshooting.
 
-## True Yoga & True Fitness | System Developer
+## True Yoga & True Fitness | Developer
 October 2017 – October 2018 · Singapore
 
 Requirements gathering, application development and maintenance, database design, stored procedures, testing, troubleshooting and customer communication.
