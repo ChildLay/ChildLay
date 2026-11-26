@@ -9,16 +9,6 @@
 <a href="mailto:childchild23@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-475569?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
----
-
-
-<p align="center">
-<a href="PROJECTS.md"><img alt="Projects" src="https://img.shields.io/badge/Projects-365B7D?style=for-the-badge"></a>
-<a href="EXPERIENCE.md"><img alt="Experience" src="https://img.shields.io/badge/Experience-365B7D?style=for-the-badge"></a>
-<a href="RESEARCH.md"><img alt="Research" src="https://img.shields.io/badge/Research-365B7D?style=for-the-badge"></a>
-</p>
-
-[![About](https://img.shields.io/badge/About-365B7D?style=for-the-badge)](#about-me) [![Tech stack](https://img.shields.io/badge/Tech_stack-365B7D?style=for-the-badge)](#technical-expertise) [![SDLC](https://img.shields.io/badge/SDLC-365B7D?style=for-the-badge)](#end-to-end-sdlc-experience) [![Skills](https://img.shields.io/badge/Skills-365B7D?style=for-the-badge)](#professional-software-engineering-skills) [![Projects](https://img.shields.io/badge/Projects-365B7D?style=for-the-badge)](#featured-enterprise-projects) [![Career](https://img.shields.io/badge/Career-365B7D?style=for-the-badge)](#professional--academic-journey)
 
 ## About Me
 
@@ -27,7 +17,7 @@
 
 I am a **.NET Full-Stack Software Developer with over 10 years of professional experience** delivering end-to-end enterprise software solutions across semiconductor manufacturing, banking and financial services, insurance, business process automation, and health and fitness in Singapore and Myanmar.
 
-My experience spans the complete **Software Development Life Cycle (SDLC)** — from requirements gathering and analysis, solution design and architecture, frontend and backend development, database design and development, and API development to system integration, testing, deployment, release support, production maintenance and continuous improvement.
+My experience spans the complete **Software Development Life Cycle (SDLC)** - from requirements gathering and analysis, solution design and architecture, frontend and backend development, database design and development, and API development to system integration, testing, deployment, release support, production maintenance and continuous improvement.
 
 My core expertise includes C#, ASP.NET, .NET Core, Web APIs, SQL Server, JavaScript, Vue.js, Azure DevOps and CI/CD pipelines. My broader technical experience includes React, TypeScript and modern web technologies. I have worked on enterprise integrations, secure third-party payment services and business process automation, collaborating with international and cross-functional teams in Agile/Scrum environments.
 
