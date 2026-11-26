@@ -264,9 +264,9 @@ Postgraduate research conducted using a Multivocal Literature Review (MLR) proto
 <a href="https://www.linkedin.com/in/khinkhinmaw/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"></a>
 <a href="mailto:childchild23@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-475569?style=for-the-badge"></a>
 <p align="center">
-  <a href="https://childlay.github.io/khinkhinmaw/#technical-expertise">
+  <a href="https://childlay.github.io/khinkhinmaw">
     <img src="https://img.shields.io/badge/Explore_Interactive_Technical_Expertise-365B7D?style=for-the-badge&logo=googlechrome&logoColor=white"
-         alt="Explore Interactive Technical Expertise" />
+         alt="Explore Profolio" />
   </a>
 </p>
 <a href="#top"><img alt="Back to top" src="https://img.shields.io/badge/Back_to_top-365B7D?style=for-the-badge"></a>
